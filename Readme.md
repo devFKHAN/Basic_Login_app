@@ -44,3 +44,7 @@ Implements user authentication and user data fetching with Firebase and a remote
 - Retrofit
 - Coroutine
 - ViewBinding
+
+## Security:
+Firebase Authentication is used. Android app access is restricted using package name and SHA-1 fingerprint.
+
