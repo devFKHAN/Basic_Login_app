@@ -2,8 +2,10 @@
 A sample Android app demonstrating Clean MVVM architecture with Hilt, Firebase Auth, and remote API integration.
 Implements user authentication and user data fetching with Firebase and a remote API.
 
+<p align="center">
+  <img src="demo.gif" alt="demo.gif">
+</p>
 
-![demo.gif](demo.gif)
 ## Features
 - User authentication with Firebase
 - Fetch and display user data from a remote API
@@ -14,7 +16,9 @@ Implements user authentication and user data fetching with Firebase and a remote
 
 ## Project Structure
 
-![project_structure.webp](project_struture.webp)
+<p align="center">
+  <img src="project_struture.webp" alt="project_structure.webp">
+</p>
 
 - `data/`: Data layer with repositories and remote data sources
 - `domain/`: Domain layer with models and use cases
