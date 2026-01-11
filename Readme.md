@@ -14,7 +14,7 @@ Implements user authentication and user data fetching with Firebase and a remote
 
 ## Project Structure
 
-![project_structure.webp](project_structure.webp)
+![project_structure.webp](project_struture.webp)
 
 - `data/`: Data layer with repositories and remote data sources
 - `domain/`: Domain layer with models and use cases
@@ -28,8 +28,7 @@ Implements user authentication and user data fetching with Firebase and a remote
 
 1. **Clone the repository**
 2. **Open in Android Studio**
-3. **Configure Firebase**
-    - Add your `google-services.json` to `app/`
+3. **Configure Firebase** -> Add your `google-services.json` to `app/`
 4. **Build and run the app**
 
 ## Tech Stack
